@@ -1,1 +1,2 @@
 # File-Explorer-Application-
+This project, 'File Explorer in C++', is a console-based system that allows users to interact with the file system using simple menu options. The program demonstrates file and directory operations such as listing contents, creating, deleting, renaming, copying files, and viewing or modifying permissions. It uses fundamental C++ features along with POSIX system calls like opendir, readdir, chdir, and chmod to perform operations on files and directories.
